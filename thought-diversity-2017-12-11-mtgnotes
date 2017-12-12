@@ -1,0 +1,47 @@
+Data for Democracy
+Code of Ethics Working Group
+Diversity & Inclusion Group
+Monday, 12/11/2017
+7:00pm
+
+- Presentation for discussion: https://docs.google.com/presentation/d/1e_hvFAT5GjifyUaDhfaM3W4c7RfmApixt2BTKMafh_4/edit#slide=id.g29fe9bcebc_0_66
+- M: Anything anyone would like to add to this list? 
+- Susan: should we call out the importance of the diversity of training data and datasets? (In our purposes)
+- M: One of the most difficult things I’ve found is to get a diverse group of people working on projects — How do we engage people outside of our usual work/peer groups? 
+- Joshua: Isn’t our particular mission to focus on diversity in the community, as this is a good way of ensuring training data is diverse as well
+- M: Agree
+- S: Understand reasoning; there’s a paradox here — diversity within a community is partly about who sees themselves as being part of a community (pipelines, etc.) — we should model diversity by demonstrating that data science is interested in diversity — people may not see themselves in the problems presented or solutions found — their communities may never be surfaced; then outsiders assume data scientists aren’t concerned with them
+- M: the community must present a non-homogenous face; must appear inclusive; we should actively invite marginalized groups to participate (how do we do that?)
+- Bethany: Got more involved with D4D because of work with groups locally — must learn to be inclusive first — extending yourself outside your community — not thrilled with the language of the purpose & objectives slide - wants to revisit this at some later point
+- M: feel free to propose edits or even make them yourself — will put in GitHub for the group to update on their own time
+- B: (on how to bring in diversity by going out first) - go into places that are intended for learning, not into other groups’ safe spaces — being cognizant of micro aggressions — some groups have meetings that are for white people as well as core group meetings — we should go to them, not start with inviting them to us
+- Susan: Articulate clearly why we seek someone’s input, why we value diversity — sees diversity as being an issue of not missing real issues — start with listening, then opportunities may present themselves
+- M: Bullet point 3: a local group has developed a very specific Code of Conduct; not sure what the ethics group has in place now — not sure if D4D has one generally — need to establish one so folks know what is acceptable behavior — groups can have problems is that not laid out initially
+- B: There’s a Code of Conduct channel in the D4D Slack but no activity
+- M: is the Code of Ethics group also working on Code of Conduct? 
+- B: CDA makes users sign the Code of Conduct when they join the Slack channel - shows users that you’re serious - also keeps out trolls
+- M: Making a note to find out more about the Code of Conduct situation  if anyone has examples of Codes they like (or don’t like) please share
+- J: Missing from purpose & objectives - sense of action and sense of urgency - agree with content but language feels a little fuzzy & lacks a recognition of the need to take action 
+- B: wants to flesh out the how of the purpose & objectives
+- L: what if we acknowledge what we’re moving away from as well as what we’re moving toward
+- B: This is new work - there is not much out there WRT Codes in the data science community
+- M: Agree, want people to know what you stand against as well as what you stand for
+- M: Lit review - not a whole lot of links, need to add more links - please add to GitHub
+- Email or Slack for in-between meetings? Some moderate preference for email, but either is fine
+- M: Many of these terms need definition for the sake of clarity
+- ? - Agree, need to make sure readers are clear what we’re talking about
+- M: for transparency and openness, best way I know is to open-source on GitHub - let Margeaux know if you need help - if anyone has ideas to make things even more transparent let me know
+- M: Would like to foster more learning in D4D in addition to projects - perhaps workshops?
+- J: Lots of online opportunities to learn - would like to be able to get in touch with someone for help while working through online courses
+- Perhaps if there were people willing to volunteer a few hours a week (example) to help others learn
+- M: objective of learning/teaching is to bring in folks who want to help but don’t have the skills or confidence to jump in - wants to help people identify their strengths and learn how to contribute
+- ? - People don’t know what they can do or might want to do with data science - this also relates to going out to the community to identify opportunities - just installing and configuring software is a huge pain
+- B: has some ideas around this to come back to later - if we do learning it needs to be free and available to everyone regardless of their access
+- ? - Do we possibly need an online environment for all this stuff - questions around logistics of designing something like that
+- M: great thing about GitHub is that’s it’s relatively easy to use (versus command line for example) - may also be helpful to organize a curriculum
+- B: Take major languages and spend a quarter of the year working through one at a time and develop a curriculum - spreads out the burden 
+- B: We could make classes accessible via community spaces so that those without an internet connection could participate
+- J: there’s a lot of material out there - a big problem is not the availability of courses, but that when you hit a roadblock you have no one to turn to
+- B: Yes, mentoring is important - but online courses are not accessible (money, videos without transcripts, etc.) - must consider accessibility for all people
+- ? - Are people in a position to discover content, regardless of accessibility - do we need to get the message out to communities who may not consider themselves contributors - is there a network to begin with to bring these groups in
+- … and that’s time! 
